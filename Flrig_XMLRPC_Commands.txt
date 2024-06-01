@@ -1,4 +1,4 @@
-freq: [{'help': 'set current VFO in Hz', 'name': 'main.set_frequency', 'signature': 'd:d'},
+[{'help': 'set current VFO in Hz', 'name': 'main.set_frequency', 'signature': 'd:d'},
  {'help': 'returns version string', 'name': 'main.get_version', 'signature': 's:n'},
  {'help': 'returns vfo in use A or B', 'name': 'rig.get_AB', 'signature': 's:n'},
  {'help': 'return BW of current VFO', 'name': 'rig.get_bw', 'signature': 'A:n'},
